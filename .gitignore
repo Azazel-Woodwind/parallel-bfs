@@ -1,0 +1,8 @@
+.vscode
+bin
+resources/sampleGraphs/*
+
+!resources/sampleGraphs/congress_networks.txt
+!resources/sampleGraphs/facebook_combined.txt
+!resources/sampleGraphs/small.txt
+!resources/sampleGraphs/README.md

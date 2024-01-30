@@ -1,7 +1,9 @@
 # Introduction
 
 The Parallel Breadth-First Search (PBFS) Algorithm implemented in this repository is based on the algorithm described in this research paper:
+
 <https://www.csd.uwo.ca/~mmorenom/CS433-CS9624/Resources/Leiserson-Schardl-2010.pdf>
+
 Although it sounds easy, it is rather non-trivial to write an optimal concurrent BFS algorithm.
 
 # Benchmark
